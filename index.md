@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @@ -1,37 +1,252 @@
 ## Welcom 黄晨航网站
 <!doctype html>
@@ -13,6 +14,9 @@
 	
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+=======
+## Welcom 黄晨航网站
+>>>>>>> parent of 85e8c4b... Update index.md
 
 You can use the [BiliBili](https://bilibili.com) to maintain and preview the content for your website in Markdown files.
 
@@ -49,6 +53,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<<<<<<< HEAD
 </head>
 <body>
 	<header id="top">
@@ -287,3 +292,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 	</footer>
 </body>
 </html>
+=======
+>>>>>>> parent of 85e8c4b... Update index.md
